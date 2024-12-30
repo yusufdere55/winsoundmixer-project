@@ -1,4 +1,4 @@
-# Windows Ses Düzeyi Karıştırıcısı (Gelişmiş)
+# WinSoundMixer
 
 Bu uygulama, Windows ses düzeyi karıştırıcısının geliştirilmiş bir versiyonudur. Uygulama, ses çıkışı cihazlarının ve uygulamaların ses düzeylerini detaylı şekilde kontrol etmenize olanak tanır. Gelecekte mobil uygulamasıyla da uyumlu olacak şekilde tasarlanmıştır.
 
@@ -53,5 +53,3 @@ Bu uygulama, Windows ses düzeyi karıştırıcısının geliştirilmiş bir ver
 - 🔄 Otomatik güncelleme sisteminin tamamlanması.
 - 🌟 Daha fazla özelleştirilebilir tema seçenekleri.
 - 🌍 Daha fazla dil desteği.
-
----
