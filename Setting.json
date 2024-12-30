@@ -1,0 +1,39 @@
+{
+  "currentTheme": "Dark",
+  "currentLanguage": "tr",
+  "port": 5000,
+  "themes": {
+    "Dark": {
+      "background": "#272727",
+      "backgroundTop": "#272727",
+      "color": "#FFFFFF",
+      "sounditem": "#424242",
+      "menu": "#202020",
+      "icons": {
+        "audio": "Image/dark/Audio.png",
+        "noAudio": "Image/dark/NoAudio.png",
+        "menu": "Image/dark/Menu.png",
+        "folder": "Image/dark/Folder.png",
+        "horizontalLine": "Image/dark/HorizontalLine.png",
+        "qrCode": "Image/dark/QrCode.png",
+        "close": "Image/dark/Close.png"
+      }
+    },
+    "Light": {
+      "background": "#F6FAFC",
+      "backgroundTop": "#EEF5F9",
+      "color": "#202020",
+      "sounditem": "#bdbdbd",
+      "menu": "#ebebeb",
+      "icons": {
+        "audio": "Image/light/Audio.png",
+        "noAudio": "Image/light/NoAudio.png",
+        "menu": "Image/light/Menu.png",
+        "folder": "Image/light/Folder.png",
+        "horizontalLine": "Image/light/HorizontalLine.png",
+        "qrCode": "Image/light/QrCode.png",
+        "close": "Image/light/Close.png"
+      }
+    }
+  }
+}

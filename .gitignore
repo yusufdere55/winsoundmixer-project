@@ -1,0 +1,6 @@
+# Build klasörleri
+bin/
+obj/
+
+# Visual Studio
+.vs/
